@@ -1,0 +1,10 @@
+{
+  "name": "fixture",
+  "dependencies": {
+    "react": "*",
+    "local": "git+https://example.test/local.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
